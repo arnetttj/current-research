@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.17)  18 MAY 2017 12:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.17)  18 MAY 2017 16:03
 entering extended mode
 **./TimRD_1.tex
 (TimRD_1.tex
@@ -756,7 +756,7 @@ Package tocloft Info: The document has section divisions on input line 44.
 \cftsubtabindent=\skip105
 \cftsubtabnumwidth=\skip106
 )
-(TimRD_1.aux)
+No file TimRD_1.aux.
 \openout1 = `TimRD_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
@@ -773,7 +773,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
 LaTeX Font Info:    ... okay on input line 82.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
 LaTeX Font Info:    ... okay on input line 82.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -853,8 +852,6 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 82.
 LaTeX Info: Redefining \pageref on input line 82.
 LaTeX Info: Redefining \nameref on input line 82.
-
-(TimRD_1.out) (TimRD_1.out)
 \@outlinefile=\write3
 \openout3 = `TimRD_1.out'.
 
@@ -867,7 +864,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 84.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (TimRD_1.toc)
+)
 \tf@toc=\write4
 \openout4 = `TimRD_1.toc'.
 
@@ -878,27 +875,49 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
- [1
+
+
+LaTeX Warning: Reference `cascade2fullgeneral' on page 1 undefined on input lin
+e 91.
+
+
+LaTeX Warning: Reference `Ku2' on page 1 undefined on input line 91.
+
+[1
 
 {C:/Users/arnett/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 182.
+
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 182.
  (TimRD_1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
-Package rerunfilecheck Info: File `TimRD_1.out' has not changed.
-(rerunfilecheck)             Checksum: 74683663120C02CD179EE0FA47537EEA;480.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 182.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 182.
+
+
+Package rerunfilecheck Warning: File `TimRD_1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `TimRD_1.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  74683663120C02CD179EE0FA47537EEA;480.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 182.
  ) 
 Here is how much of TeX's memory you used:
- 9288 strings out of 493328
- 135766 string characters out of 3139121
- 245546 words of memory out of 3000000
- 12667 multiletter control sequences out of 15000+200000
+ 9273 strings out of 493328
+ 135600 string characters out of 3139121
+ 246892 words of memory out of 3000000
+ 12660 multiletter control sequences out of 15000+200000
  12554 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,26n,43p,647b,414s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,26n,43p,647b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
@@ -910,9 +929,9 @@ m/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TimRD_1.pdf (3 pages, 139428 bytes).
+Output written on TimRD_1.pdf (3 pages, 136592 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
