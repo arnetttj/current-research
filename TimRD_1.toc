@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Hierarchical Fuzzy Inference Systems (hFIS) vs. Single Fuzzy Inference System (sFIS)}{1}{section.1}
+\contentsline {section}{\numberline {2}Dynamic hFIS structure}{3}{section.2}
+\contentsline {section}{\numberline {3}Weekly Record}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}5/15/17-5/19/17}{3}{subsection.3.1}
+\contentsline {section}{\numberline {4}Stream of Consciousness}{3}{section.4}
+\contentsline {subsection}{\numberline {4.1}Learning underlying target function structure during reinforcement learning}{3}{subsection.4.1}
